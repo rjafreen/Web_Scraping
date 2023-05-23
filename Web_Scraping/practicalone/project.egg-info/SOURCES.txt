@@ -1,0 +1,15 @@
+setup.py
+practicalone/__init__.py
+practicalone/items.py
+practicalone/middlewares.py
+practicalone/pipelines.py
+practicalone/settings.py
+practicalone/spiders/Firstspyder.py
+practicalone/spiders/__init__.py
+practicalone/spiders/practical_one_solution.py
+practicalone/spiders/secondbook.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
